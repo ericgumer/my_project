@@ -8,17 +8,6 @@ print('Create new branch')
 print('Hello, Git!')
 print('Indexing is important!')
 
-for num in range(10):
-        print(num,end=' ')
-        import os
-print('Hello, Git!')
-print('Indexing is important!')
-
-for num in range(10):
-        print(num,end=' ')
-print(f'\nYour current directory: {os.getcwd()}')
-print('Hello, Git!')
-print('Indexing is important!')
 
 ind = 0
 sum = 0
